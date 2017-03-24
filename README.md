@@ -9,9 +9,6 @@
 * Rottweiler SAS Delete
 * Rade Garage Tank/Intake
 * Seat Concepts Seat (black)
-* Midwest Mountain Engineering Clutch Lever
-* Ebay Special Levers
-
 --------------------------
 
 ### Fueling, Intake and Exhaust
@@ -23,7 +20,8 @@
 * Jaybeebikerbits sliders (10)
 
 ### Controls
-* eBay Special Shorty Levers
+* Midwest Mountain Engineering Levers (removed)
+* eBay Special Shorty Levers (removed)
 
 ### Drive
 * 15T OEM Front Sprocket
