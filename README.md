@@ -3,21 +3,22 @@
 
 ### Pending
 * 48T Dirt Tricks Zirconium Rear Sprocket
-* Perun Heel Guards
 * Rally Raid Tank Bolts (upper and lower)
-* Power Commander V
-* Rottweiler SAS Delete
-* Rade Garage Tank/Intake
-* Seat Concepts Seat (black)
+* Rade Garage Tank
+* P3 Carbon Bash Plate
 --------------------------
 
 ### Fueling, Intake and Exhaust
-* Wings Slip-on
+* Power Commander V
+* K&N pod intake
+* Wings Slip-on (open)
+* Rottweiler SAS Delete
 
 ### Protection
 * Perun Rear Master Cylinder Guard
 * Flatland Racing Bash Plate (special order black)
 * Jaybeebikerbits sliders (10)
+* Perun Heel Guards
 
 ### Controls
 * Midwest Mountain Engineering Levers (removed)
@@ -35,6 +36,7 @@
 * RAM X-Grip phone mount
 * Perun Luggage Rack
 * Mosko Moto Reckless 40 Saddlebag
+* Seat Concepts Seat (black)
 
 ### Aesthetic
 * no
