@@ -6,6 +6,7 @@
 * Rally Raid Tank Bolts (upper and lower)
 * Rade Garage Tank
 * P3 Carbon Bash Plate
+* 690 Enduro Wheels
 --------------------------
 
 ### Fueling, Intake and Exhaust
