@@ -3,13 +3,11 @@
 
 ### Pending
 * 48T Dirt Tricks Zirconium Rear Sprocket
-* Rally Raid Tank Bolts (upper and lower)
-* Rade Garage Tank
-* P3 Carbon Bash Plate
 * 690 Enduro Wheels
 --------------------------
 
 ### Fueling, Intake and Exhaust
+* Rade Garage Tank
 * Power Commander V
 * K&N pod intake
 * Wings Slip-on (open)
@@ -17,9 +15,11 @@
 
 ### Protection
 * Perun Rear Master Cylinder Guard
-* Flatland Racing Bash Plate (special order black)
+* P3 Carbon Bash Plate
+* Flatland Racing Bash Plate (special order black)(removed)
 * Jaybeebikerbits sliders (10)
 * Perun Heel Guards
+* Rally Raid Tank Bolts (upper and lower)
 
 ### Controls
 * Midwest Mountain Engineering Levers (removed)
@@ -37,7 +37,4 @@
 * RAM X-Grip phone mount
 * Perun Luggage Rack
 * Mosko Moto Reckless 40 Saddlebag
-* Seat Concepts Seat (black)
-
-### Aesthetic
-* no
+* Seat Concepts Seat (black/gripper)
