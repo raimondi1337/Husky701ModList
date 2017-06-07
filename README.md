@@ -3,21 +3,22 @@
 
 ### Pending
 * 48T Dirt Tricks Zirconium Rear Sprocket
-* 690 Enduro Wheels
+* Flatland Racing radiator guard
 --------------------------
 
 ### Fueling, Intake and Exhaust
 * Rade Garage Tank
 * Power Commander V
-* K&N pod intake
+* Uni foam pod intake
+* K&N pod intake (removed)
 * Wings Slip-on (open)
 * Rottweiler SAS Delete
 
 ### Protection
 * Perun Rear Master Cylinder Guard
 * P3 Carbon Bash Plate
-* Flatland Racing Bash Plate (special order black)(removed)
-* Jaybeebikerbits sliders (10)
+* Flatland Racing Bash Plate (removed)
+* Jaybeebikerbits sliders (axles, frame)
 * Perun Heel Guards
 * Rally Raid Tank Bolts (upper and lower)
 
@@ -27,14 +28,15 @@
 
 ### Drive
 * 15T OEM Front Sprocket
+* 690 Enduro Wheel Set
 
 ### Electronics
 * BikeLitez Integrated tail light and flashers
-* 12v Accessory and USBx2 Plug
+* 12v Accessory and USBx2 Plug (broken)
 * Cyclops 7000 Lumen HID
 
 ### Accessories
 * RAM X-Grip phone mount
-* Perun Luggage Rack
+* Perun Tail Rack
 * Mosko Moto Reckless 40 Saddlebag
 * Seat Concepts Seat (black/gripper)
