@@ -10,21 +10,21 @@
 * Rade Garage Tank
 * Power Commander V
 * Uni foam pod intake
-* K&N pod intake (removed)
-* Wings Slip-on (open)
+* ~~K&N pod intake~~
+* Wings Slip-on
 * Rottweiler SAS Delete
 
 ### Protection
 * Perun Rear Master Cylinder Guard
 * P3 Carbon Bash Plate
-* Flatland Racing Bash Plate (removed)
-* Jaybeebikerbits sliders (axles, frame)
+* ~~Flatland Racing Bash Plate~~
+* Jaybeebikerbits sliders
 * Perun Heel Guards
-* Rally Raid Tank Bolts (upper and lower)
+* Rally Raid Tank Bolts
 
 ### Controls
-* Midwest Mountain Engineering Levers (removed)
-* eBay Special Shorty Levers (removed)
+* ~~Midwest Mountain Engineering Levers~~
+* ~~eBay Special Shorty Levers~~
 
 ### Drive
 * 15T OEM Front Sprocket
@@ -32,11 +32,11 @@
 
 ### Electronics
 * BikeLitez Integrated tail light and flashers
-* 12v Accessory and USBx2 Plug (broken)
+* 12v Accessory and USBx2 Plug
 * Cyclops 7000 Lumen HID
 
 ### Accessories
 * RAM X-Grip phone mount
 * Perun Tail Rack
 * Mosko Moto Reckless 40 Saddlebag
-* Seat Concepts Seat (black/gripper)
+* Seat Concepts Seat
