@@ -2,7 +2,8 @@
 #### The list of all the stupid shit I've done to my bike.
 
 ### Pending
-* 48T Dirt Tricks Zirconium Rear Sprocket
+* FactoryPro Shift Kit
+* MadStad Adjustable Windshield
 * Flatland Racing radiator guard
 --------------------------
 
