@@ -11,21 +11,18 @@
 * Rade Garage Tank
 * Power Commander V
 * Uni foam pod intake
-* ~~K&N pod intake~~
 * Wings Slip-on
 * Rottweiler SAS Delete
 
 ### Protection
 * Perun Rear Master Cylinder Guard
 * P3 Carbon Bash Plate
-* ~~Flatland Racing Bash Plate~~
 * Jaybeebikerbits sliders
 * Perun Heel Guards
 * Rally Raid Tank Bolts
 
 ### Controls
-* ~~Midwest Mountain Engineering Levers~~
-* ~~eBay Special Shorty Levers~~
+* 
 
 ### Drive
 * 15T OEM Front Sprocket
