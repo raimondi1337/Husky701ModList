@@ -2,6 +2,7 @@
 #### The list of all the stupid shit I've done to my bike.
 
 ### Pending
+* ASV F3 Clutch and Brake Levers
 * FactoryPro Shift Kit
 * MadStad Adjustable Windshield
 * Flatland Racing radiator guard
