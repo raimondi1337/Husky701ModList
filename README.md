@@ -4,8 +4,9 @@
 ### Pending
 * ASV F3 Clutch and Brake Levers
 * FactoryPro Shift Kit
-* MadStad Adjustable Windshield
+* KTM 690 stiffer clutch springs
 * Flatland Racing radiator guard
+* Shorai LFX19A4-BS12 Battery
 --------------------------
 
 ### Fueling, Intake and Exhaust
