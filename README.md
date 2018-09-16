@@ -23,6 +23,8 @@
 ### Controls
 * ASV C5 clutch and brake Levers
 * Pivot Pegz
+* G2 throttle tube
+* Oxford Heaterz Adventure hand grips
 
 ### Drive
 * 15T OEM front sprocket
@@ -42,4 +44,4 @@
 * Perun Tail Rack
 * Kriega OS-Base and OS-16 bags
 * Seat Concepts seat
-* Oxford Heaterz Adventure hand grips
+
