@@ -14,9 +14,9 @@
 ### Protection
 * HDB Ultimate Handguards
 * Perun Rear Master Cylinder Guard
+* Perun heel guards
 * P3 Carbon Bash Plate
 * Jaybeebikerbits sliders
-* Perun heel guards
 * Rally Raid upper and lower tank bolts
 * Flatland Racing radiator guard
 
@@ -42,6 +42,7 @@
 * HDB mirrors
 * RAM X-Grip phone mount
 * Perun Tail Rack
-* Kriega OS-Base and OS-16 bags
 * Seat Concepts seat
+* Kriega OS-Base and OS-16 bags
+* Kriega tool roll
 
