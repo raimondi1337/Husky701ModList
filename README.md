@@ -1,42 +1,45 @@
 # Husky 701 Mod List
 #### The list of all the stupid shit I've done to my bike.
 
-### Pending
-* ASV F3 Clutch and Brake Levers
-* FactoryPro Shift Kit
-* KTM 690 stiffer clutch springs
-* Flatland Racing radiator guard
-* Shorai LFX19A4-BS12 Battery
 --------------------------
 
 ### Fueling, Intake and Exhaust
-* Rade Garage Tank
+* Rade Garage aux tank
+* KTM rally aux petcock
 * Power Commander V
 * Uni foam pod intake
-* Wings Slip-on
-* Rottweiler SAS Delete
+* Wings slip-on
+* Rottweiler SAS delete
 
 ### Protection
+* HDB Ultimate Handguards
 * Perun Rear Master Cylinder Guard
 * P3 Carbon Bash Plate
 * Jaybeebikerbits sliders
-* Perun Heel Guards
-* Rally Raid Tank Bolts
+* Perun heel guards
+* Rally Raid upper and lower tank bolts
+* Flatland Racing radiator guard
 
 ### Controls
-* 
+* ASV C5 clutch and brake Levers
+* Pivot Pegz
 
 ### Drive
-* 15T OEM Front Sprocket
-* 690 Enduro Wheel Set
+* 15T OEM front sprocket
+* 690 Enduro wheel set
 
 ### Electronics
-* BikeLitez Integrated tail light and flashers
-* 12v Accessory and USBx2 Plug
-* Cyclops 7000 Lumen HID
+* R&G fender eliminator
+* R&G rear turn signals
+* Dual USB power plugs
+* Cyclops 7000 lumen HID
+* EarthX lithium battery
 
 ### Accessories
+* HDB dash mount
+* HDB mirrors
 * RAM X-Grip phone mount
 * Perun Tail Rack
-* Mosko Moto Reckless 40 Saddlebag
-* Seat Concepts Seat
+* Kriega OS-Base and OS-16 bags
+* Seat Concepts seat
+* Oxford Heaterz Adventure hand grips
