@@ -1,5 +1,5 @@
 # Husky 701 Mod List
-#### The list of all the stupid shit I've done to my bike.
+#### I could have paid the bike off but instead I bought this shit
 
 --------------------------
 
