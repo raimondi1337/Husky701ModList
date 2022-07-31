@@ -1,5 +1,5 @@
 # Husky 701 Mod List
-#### I could have paid the bike off but instead I bought this shit
+#### Why did I tally this all up...
 
 --------------------------
 
@@ -50,3 +50,8 @@
 * Kriega tool roll - $40
 
 ### Total - $6400
+
+--------------------------
+
+### Maintenance
+* Top end rebuild (27k miles, new valves and seats) - $2500
